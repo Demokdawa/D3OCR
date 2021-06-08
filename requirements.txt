@@ -20,7 +20,7 @@ multidict==4.7.6
 names==0.3.0
 numpy==1.19.3
 opencv-python==4.4.0.44
-Pillow==8.0.1
+Pillow==8.2.0
 PySimpleGUI==4.0.0
 pyspellchecker==0.5.5
 pytesseract==0.2.6
